@@ -1,5 +1,5 @@
-# control-damiao-DM3519-motor
-use arduino control damiao DM3519 motor
+# arduino-control-damiao-DM3519-motor
+ arduino control damiao DM3519 motor
 
 用 Arduino + USB Host Shield ，
 經由 USB‑CAN 轉接器，用 速度模式 控制達妙 DM‑S3519 馬達，
